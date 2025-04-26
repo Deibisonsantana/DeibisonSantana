@@ -1,6 +1,6 @@
 ## Eu Sou :point_down:
 
-Eu sou Deibison Santana sou um Programador Front-End Atualmente estou aprendendo e criando projetos com Html e css e Iniciando o aprendizado com JavaScripts.
+Eu sou Deibison Santana sou um Programador Front-End Atualmente estou aprendendo e criando projetos com Html e Css e Iniciando o aprendizado com JavaScripts.
 
 📱 Contatos
 
